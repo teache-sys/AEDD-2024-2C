@@ -1,0 +1,18 @@
+Ejercicios extra de arreglos:
+
+1) Sumar los elementos "opuestos" de un arreglo que se inicializa con números aleatorios
+   - Ejemplo: para [1 4 10 12 35] se debe imprimir sumas = 36 16 10
+   - Ejemplo: para [1 3 2 1] se debe imprimir sumas = 2 5
+
+2) de un arreglo que se inicializa con caracteres aleatorios, buscar en qué posición se encuentra la primer aparición de 'X'. Si no se encuentra imprimir: no encontrado.
+
+3) Dado dos arreglos de números ordenados A y B, construir un nuevo arreglo combinando A y B. El arreglo resultante tiene que estar ordenado y sin elementos repetidos.
+
+4) Dado un arreglo, ingresar por teclado una posición y eliminar el valor que se encuentre en ésta. Luego, imprimir el arreglo por pantalla
+
+5) Dado un arreglo de caracteres, ingresar por teclado una posición y un carácter, e insertar el carácter en la posición indicada. Luego, imprimir el arreglo por pantalla.
+
+6) Dado un arreglo, ingresar por teclado dos posiciones X e Y (X<=Y) y eliminar en el arreglo todos los elementos que se encuentren dentro de ese rango.
+   -  Ejemplo:   [3 5 8 2 1], se ingresa 1 y 3 
+   -  -> el arreglo resulta [3 1]
+   => se debe validar que los datos ingresados sean validos

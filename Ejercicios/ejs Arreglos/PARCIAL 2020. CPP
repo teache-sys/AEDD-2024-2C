@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+#define tf 41
+
+int main(int argc, char *argv[]) {
+	int fila;
+	long long suma =0;
+	cin >> fila;
+	long long matriz[21][tf]={0};
+	matriz [0][20] = 1;
+	
+	for(int i=1; i <= fila; i++){
+		for(int j=20-i; j <= 20+i; j++){
+			matriz[i][j] = matriz[i-1][j]+matriz[i-1][j-1]+matriz[i-1][j+1];
+		}
+	}
+	
+	
+	
+	for(int i = 0 ; i <= 20 + fila; i++){
+		suma += matriz[fila][i];
+	}
+	cout << suma << endl;
+	
+	return 0;
+}
+

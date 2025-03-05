@@ -1,0 +1,2 @@
+Leer el ejercicio de la guia y ver que pide, no borrar los archivos que estan creados, en caso de que el ejercicio lo pida, entrar y leer lo que esta escrito 
+en el archivo
