@@ -9,4 +9,4 @@ Muchos ejercicios fueron sacados de el siguiente repositorio :
 **Muchos de los enunciados/problemas que no estan en este repositorio, se logran encontrar en el link anterior.**
 
 [📂 AEDD 2024](./Ejercicios/)
-
+[📂 Trabajo Practico 2024 Cuatrimestral](./TrabajoPractico/)
