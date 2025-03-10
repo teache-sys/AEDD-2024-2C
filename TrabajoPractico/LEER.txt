@@ -1,0 +1,2 @@
+Para probar el tp en Zinjai tenes que descargar el .zip. 
+Si solo queres ver las funciones implementadas podes verlo desde la carpeta 
